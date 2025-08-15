@@ -8,9 +8,7 @@
 5) jupyter lab
 6) Run `notebooks/01_EDA_Git.ipynb` then `notebooks/02_Modeling_Inference.ipynb`
 7) Predictions: `outputs/test_predictions.csv` (id,bad_flag)
-8) Reports: `reports/eda_report.html`, `reports/modeling_report.html`
 
 ## Notes
 - EDA visuals saved in `reports/figures/*` and tables in `reports/tables/*`.
-- Datasets are excluded from Git by design.
-- Baseline: Logistic Regression; optional NN per guide.
+- Baseline: Logistic Regression;  NN.
